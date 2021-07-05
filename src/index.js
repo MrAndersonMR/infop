@@ -2,11 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Title from './components/Title/Title';
+import Gallery from './components/Gallery/Gallery';
+import FootNote from './components/FootNote/FootNote';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Title />
+    <Gallery />
+    <FootNote />
   </React.StrictMode>,
   document.getElementById('root')
 );
