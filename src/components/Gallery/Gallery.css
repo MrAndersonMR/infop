@@ -17,8 +17,8 @@
 }
 
 #photos img {
-    /* Just in case there are inline attributes */
-    width: 100% !important;
+    /* Just in case there are inline attributes 
+    width: 100% !important; */
     height: auto !important;
 }
 

@@ -4,7 +4,9 @@ import './FootNote.css';
 
 const FootNote = () => (
   <div>
-    <h4>Criado por Anderson Mendes | 2021</h4>
+    <h4>Desenvolvido por <name2>Anderson M. Ribeiro</name2> <br/>
+    emponderado por React JS <b>· 2021</b> <br/>
+    São João Nepomuceno <b>· Minas Gerais ·</b> Brasil</h4>
   </div>
 );
 
