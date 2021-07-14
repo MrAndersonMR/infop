@@ -3,8 +3,8 @@
 }
 
 #photos {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 6em;
+    padding-right: 6em;
 
     /* Prevent vertical gaps */
     line-height: 0;
@@ -27,6 +27,9 @@
         -moz-column-count: 2; /*4*/
         -webkit-column-count: 2; /*4*/
         column-count: 2; /*4*/
+
+        padding-left: 20px;
+        padding-right: 20px;
     }
 }
 
