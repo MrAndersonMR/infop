@@ -10,8 +10,8 @@ const FootNote = () => (
   </div>
 );
 
-FootNote.propTypes = {};
+/*FootNote.propTypes = {};
 
-FootNote.defaultProps = {};
+FootNote.defaultProps = {};*/
 
 export default FootNote;
