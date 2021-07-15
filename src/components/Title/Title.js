@@ -32,7 +32,6 @@ const Title = () => (
         Informativo - Ano XIX - <b>Julho</b> de 2021 - NºCCXXVIII <br/>
         São João Nepomuceno e Região - Minas Gerais <br/>
       </h6>
-      <button>todos</button>
     </div>
   </div>
 );
