@@ -35,6 +35,7 @@ const adList = [
   {source: 'https://mrandersonmr.github.io/infop/images/sosCelulares.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/goCell.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/horaExtra.png'},
+  {source: 'https://mrandersonmr.github.io/infop/images/imobiliáriaCasaLeite2.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/mercadoCebolinha.png', source2: 'https://mrandersonmr.github.io/infop/images/padariaBragança.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/irmãosAmino.png', source2: 'https://mrandersonmr.github.io/infop/images/nogueiraLanches.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/padariaFamíliaMarquete.png'},
@@ -49,8 +50,8 @@ const adList = [
   {source: 'https://mrandersonmr.github.io/infop/images/goldim.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/hortifrutiMercadoSamuel.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/armazémDoFrangoForteFrios.png'},
-  {source: 'https://mrandersonmr.github.io/infop/images/tupinambás.png'},
-  {source: 'https://mrandersonmr.github.io/infop/images/imobiliáriaCasaLeite2.png'}
+  {source: 'https://mrandersonmr.github.io/infop/images/tupinambás.png'}
+  
 
 
 
