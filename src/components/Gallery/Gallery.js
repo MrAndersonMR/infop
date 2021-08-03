@@ -22,7 +22,7 @@ var allImages = [];
 
 const adList = [
   {source: 'https://mrandersonmr.github.io/infop/images/drogariaDaSerra.png', source2: 'https://mrandersonmr.github.io/infop/images/wgBorracharia.png'},
-  {source: 'https://mrandersonmr.github.io/infop/images/tonhoSeguros.png'},
+  {source: 'https://mrandersonmr.github.io/infop/images/toninhoSeguros.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/nagimaq.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/casaDeCarnesCentral.png'},
   {source: 'https://mrandersonmr.github.io/infop/images/chaveDeOuro.png', source2: 'https://mrandersonmr.github.io/infop/images/sacolãoCentral.png'},
